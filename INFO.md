@@ -1,3 +1,3 @@
 git is awesome!
-new line
-experiment with amend
+
+Hexlet is awesome too!
