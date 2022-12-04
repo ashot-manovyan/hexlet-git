@@ -1,3 +1,1 @@
-Hello, Hexlet!
-
-Texty text. :)
+Hello, Hexlet! How are you?
